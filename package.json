@@ -1,0 +1,21 @@
+{
+  "name": "emacs-light",
+  "displayName": "Emacs Light",
+  "description": "Emacs light theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Emacs Light",
+        "uiTheme": "vs",
+        "path": "./themes/Emacs Light-color-theme.json"
+      }
+    ]
+  }
+}
