@@ -4,10 +4,13 @@ All notable changes to the "emacs-light" extension will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [v0.0.1]
+## v0.0.1
 
 - Initial release
 
-## [v0.0.2]
+## Unreleased
 
 - rename theme file
+- remove all unspecified tokens
+- add manually specified tokens
+- updated to manual tokens only
