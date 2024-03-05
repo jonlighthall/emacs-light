@@ -1,7 +1,7 @@
 {
   "name": "emacs-light",
   "displayName": "Emacs Light",
-  "description": "Emacs light theme",
+  "description": "Default Emacs font-lock color settings ported to a VSCode light color theme.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.87.0"
